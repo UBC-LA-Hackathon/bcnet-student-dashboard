@@ -4,7 +4,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Welcome to the [7th UBC Learning Analytics hackathon](https://learninganalytics.ubc.ca/for-students/hackathons/). Although the spring 2020 hackathon was cancelled due to COVID-19, the fall 2020 hackathon has gone fully virtual! This hackathon is really a workshop, so we're going to be referring to it as a `workshopathon` from here on out.
+Welcome to the bcnet half-day hackathon. This hackathon is really a workshop that we have condensed to a half day, so we're going to be referring to it as a `workshopathon` from here on out.
 
 This repo contains the basic backend and frontend components of the Student Dashboard application you will be building. By the end of this workshopathon, you should have a working web application that displays your own Canvas data using the Canvas API.
 
@@ -51,14 +51,7 @@ We don't expect you to come into the workshopathon with any prior knowledge. You
 Please connect to our Hackathon Zoom link (available from Canvas), where you can ask the volunteers for help. 
 
 ## 📅 Schedule
-### Sunday, October 25th
-* 9:00am - Hackathon welcome and orientation - we'll give you an overview of the tasks and get you set up with this repository.
-* 9:20am - Start hacking! Solutions to each of the [Tasks](#-tasks) will be released at predetermined times.
-* 11:00am - Check-in.
-* 1:00pm - Check-in.
-* 3:00pm - Check-in.
-* 4:30pm - Optional: students who built some of the optional features in [Task 6](6-Create-Advanced-Data-Viz.md) can demo their work!
-* 5:30pm - End of Workshopathon.
+TBD
 
 ## ⚙️ Getting Started
 These instructions will get you a copy of the project up and running on your local machine for use with your own Canvas API tokens.
@@ -142,7 +135,6 @@ At the end of the workshopathon, you can [put a link to your work here](7-Share-
 ## Organizers
 This hackathon is a collaborative effort by the [UBC Learning Analytics](https://learninganalytics.ubc.ca/) project, [LAVA](https://blogs.ubc.ca/lava/) (Learning Analytics, Visual Analytics), and [Sauder Learning Services](https://www.sauder.ubc.ca/about-ubc-sauder/learning-services), with staff volunteers from [Faculty of Arts](https://www.arts.ubc.ca/), [Faculty of Education](https://educ.ubc.ca/), [Sauder School of Business](https://www.sauder.ubc.ca/), and the [Centre for Teaching, Learning and Technology](https://ctlt.ubc.ca/).
 
-A big thank you to [Sauder Learning Labs](https://www.sauder.ubc.ca/about-ubc-sauder/learning-services/learning-labs) for providing a space designed to facilitate teams in using critical thinking and analytical decision making to solve real-world problems.
 
 ## Contributors ✨
 
