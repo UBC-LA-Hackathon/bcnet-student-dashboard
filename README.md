@@ -1,10 +1,10 @@
-## Build an interactive student dicussion heatmap with the Canvas API
+## Build an interactive student discussion heatmap with the Canvas API
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Welcome to the bcnet half-day hackathon. This hackathon is really a workshop that we have condensed to a half day, so we're going to be referring to it as a `workshopathon` from here on out.
+Welcome to the BCNET half-day hackathon. This hackathon is really a workshop that we have condensed to a half day, so we're going to be referring to it as a `workshopathon` from here on out.
 
 This repo contains the basic backend and frontend components of the Student Dashboard application you will be building. By the end of this workshopathon, you should have a working web application that displays your own Canvas data using the Canvas API.
 
@@ -48,7 +48,7 @@ After you've completed the heatmap, you can either add more [features to the hea
 ## 🤔 Ask For Help
 We don't expect you to come into the workshopathon with any prior knowledge. You may never have coded before - that's okay! You're here to learn, and we're here to help.
 
-Please connect to our Hackathon Zoom link (available from Canvas), where you can ask the volunteers for help. 
+Please connect to our Hackathon Zoom link (available from Canvas), where you can ask the volunteers for help.
 
 ## 📅 Schedule
 TBD
@@ -76,7 +76,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Navigate into `backend` repo. `cd backend`
 1. Install required dependencies. `npm install`
 1. Start server. `npm start`
-1. In terminal, you should see `Example app listening on port 4001!`.
+1. In the terminal, you should see `Example app listening on port 4001!`.
 
 #### Frontend
 1. Navigate into `frontend` repo. `cd frontend`
@@ -104,7 +104,7 @@ These instructions will get you a copy of the project up and running on your loc
 Our web application will involve three autonomous entities (two of which we build):
 * a **frontend** React application
 * a **backend** Node.js/Express application
-* the **Canvas  API** (accessed through node-canvas-api)
+* the **Canvas  API** (accessed through `node-canvas-api`)
 
 These three entities run independently but communicate with one another by exchanging data via API endpoints. Our Node backend will be responsible for querying the Canvas API, processing the data returned, and hosting that data at API endpoints (that we create) for our frontend application to read and render to the browser.
 
